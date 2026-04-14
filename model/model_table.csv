@@ -1,0 +1,5 @@
+﻿peptidase,opt_model
+Anti-cancer,SVC
+Anti-viral,SVC
+Anti-microbial,SVC
+Anti-oxidant,MLP

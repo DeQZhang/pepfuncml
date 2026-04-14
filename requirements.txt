@@ -1,0 +1,21 @@
+# Core data processing
+numpy
+pandas
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Deep learning and protein language model inference
+torch
+transformers
+
+# Classical machine learning and optimization
+scikit-learn
+umap-learn
+scikit-optimize
+xgboost
+
+# Sequence similarity
+python-Levenshtein
