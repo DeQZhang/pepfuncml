@@ -194,10 +194,3 @@ If you use this repository in academic work, cite the corresponding paper or pro
 
 All Python scripts in this repository now include English module descriptions, function docstrings, and key inline comments to improve readability for external reviewers and GitHub visitors.
 
-## Contact
-
-For questions about the codebase, datasets, or model training workflow, add the maintainer contact information here before publishing the repository.
-
-- Maintainer: Your Name
-- Email: your.email@example.com
-- Affiliation: Your Institution or Lab
